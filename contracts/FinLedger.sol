@@ -2,6 +2,7 @@
 pragma solidity ^0.8.20;
 
 
+
 /**
  * @title FinLedger
  * @dev A simple blockchain-based financial ledger that allows users to record transactions securely and transparently.
